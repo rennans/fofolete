@@ -235,11 +235,7 @@ h2 {
     width: 100%;
     height: auto;
   }
-  header, section {
-    /* Força a visibilidade em telas pequenas, ignorando a animação */
-    opacity: 1;
-    transform: none;
-  }
+  
 }
 /* RODAPÉ */
 footer {
