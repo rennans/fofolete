@@ -60,9 +60,9 @@ header,
 section {
   padding: 100px 20px;
   text-align: center;
-  opacity: 0;
+  
   transform: translateY(30px);
-  transition: opacity 0.8s ease, transform 0.8s ease;
+  
 }
 
 header.visible,
