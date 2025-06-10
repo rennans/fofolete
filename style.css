@@ -14,7 +14,7 @@
             padding: 0;
             background-color: var(--cor-fundo);
             color: var(--cor-texto);
-            overflow-x: hidden; /* Previne scroll horizontal */
+             /* Previne scroll horizontal */
         }
 
         /* ANIMAÇÃO DE CORAÇÕES */
