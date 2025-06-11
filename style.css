@@ -79,8 +79,11 @@ section.visible {
   justify-content: center;
   display: flex;
   align-items: center;
+  
 }
-
+.a-vida-faz{
+  text-align: center;
+}
 h1,
 h2 {
   font-family: "Playfair Display", serif;
